@@ -1,0 +1,56 @@
+[05-Apr-2020 18:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 18:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 18:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 18:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 18:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:03:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[05-Apr-2020 19:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[06-Apr-2020 04:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[06-Apr-2020 16:04:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
+[06-Apr-2020 16:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rzmwgeyw/public_html/wp-content/themes/blessed-template/index.php on line 1
